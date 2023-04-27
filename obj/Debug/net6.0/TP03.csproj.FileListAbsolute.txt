@@ -1,0 +1,15 @@
+Z:\2023\PROG\TP03\bin\Debug\net6.0\TP03.exe
+Z:\2023\PROG\TP03\bin\Debug\net6.0\TP03.deps.json
+Z:\2023\PROG\TP03\bin\Debug\net6.0\TP03.runtimeconfig.json
+Z:\2023\PROG\TP03\bin\Debug\net6.0\TP03.dll
+Z:\2023\PROG\TP03\bin\Debug\net6.0\TP03.pdb
+Z:\2023\PROG\TP03\obj\Debug\net6.0\TP03.csproj.AssemblyReference.cache
+Z:\2023\PROG\TP03\obj\Debug\net6.0\TP03.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2023\PROG\TP03\obj\Debug\net6.0\TP03.AssemblyInfoInputs.cache
+Z:\2023\PROG\TP03\obj\Debug\net6.0\TP03.AssemblyInfo.cs
+Z:\2023\PROG\TP03\obj\Debug\net6.0\TP03.csproj.CoreCompileInputs.cache
+Z:\2023\PROG\TP03\obj\Debug\net6.0\TP03.dll
+Z:\2023\PROG\TP03\obj\Debug\net6.0\refint\TP03.dll
+Z:\2023\PROG\TP03\obj\Debug\net6.0\TP03.pdb
+Z:\2023\PROG\TP03\obj\Debug\net6.0\TP03.genruntimeconfig.cache
+Z:\2023\PROG\TP03\obj\Debug\net6.0\ref\TP03.dll
